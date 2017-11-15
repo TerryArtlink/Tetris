@@ -1,8 +1,9 @@
+#include "stdafx.h"
 /*
 only test,  never used.
 */
 /*
-#include "stdafx.h"
+
 #include <iostream>
 #include "windows.h"
 
